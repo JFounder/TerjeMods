@@ -23,6 +23,11 @@ This includes, but is not limited to:
 
 When using, modifying, or redistributing this project or any of its parts, you must provide clear credit to the original author and the TerjeMods project. The attribution must be visible in documentation, repository descriptions, or other appropriate locations within derivative works.
 
+## Donation
+You can support me with a donation if you like this project
+https://paypal.me/terjemods
+https://buymeacoffee.com/terjemods
+
 ## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
