@@ -36,7 +36,7 @@ modded class ActionFishingNew
 	bool TerjeProcessingSpawnCatch(FishingActionData action_data, EntityAI fishItem)
 	{
 		bool spawnExtraFish = false;
-		Playerbase player = Playerbase.Cast(action_data.m_Player);
+		PlayerBase player = PlayerBase.Cast(action_data.m_Player);
 		ItemBase fishingRod = ItemBase.Cast(action_data.m_MainItem);
 		ItemBase resultItem = ItemBase.Cast(fishItem);
 		
